@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrivateCaller
 - 👀 I’m interested in ... random personal projects.
-- 🌱 I’m currently learning ... TorqueScript.
+- 🌱 I’m currently learning ... TorqueScript, C++.
 - 💞️ I’m looking to collaborate on ... nothing!
 - 📫 How to reach me ... WaffleMan2000@protonmail.com
 
