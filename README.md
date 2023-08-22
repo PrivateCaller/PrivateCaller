@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PrivateCaller
-- 👀 I’m interested in ... programming and small electronic projects.
+- 👀 I’m interested in ... programming and small electronics.
 - 🌱 I’m currently learning ... Java, C#, TSQL.
 - 💞️ I’m looking to collaborate on ... various personal projects.
 - 📫 How to reach me ... proforpenicillin@borrowedtime.online
