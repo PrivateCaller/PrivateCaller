@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PrivateCaller
-- 👀 I’m interested in ... random personal projects.
-- 🌱 I’m currently learning ... Lua, C++.
-- 💞️ I’m looking to collaborate on ... a few of my friend's projects.
-- 📫 How to reach me ... WaffleMan2000@protonmail.com
+- 👀 I’m interested in ... programming and small electronic projects.
+- 🌱 I’m currently learning ... Java, C#, TSQL.
+- 💞️ I’m looking to collaborate on ... various personal projects.
+- 📫 How to reach me ... proforpenicillin@borrowedtime.online
 
 <!---
 PrivateCaller/PrivateCaller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
